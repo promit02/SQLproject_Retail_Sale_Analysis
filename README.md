@@ -7,7 +7,7 @@ Database: retail_db
 
 Desc: This project showcases SQL skills used by data analysts to explore, clean, and analyze retail sales data. It involves setting up a database, performing EDA, and writing queries to answer business questions—ideal for beginners building a strong SQL foundation.
 
-Analysis was done on the basis of following simple such ae queires: 
+Analysis was done on the basis of following simple queires such as : 
 
 -- Q.1 Write a SQL query to retrieve all columns for sales made on '2022-08-17'.
 
